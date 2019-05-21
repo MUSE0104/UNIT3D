@@ -2,7 +2,7 @@
 
 return [
   'actions' => '행위',
-  'backup' => '지원',
+  'backup' => '백업',
   'backup_doesnt_exist' => '백업 파일이 존재하지 않습니다.',
   'create_a_new_backup' => '전체 백업 만들기',
   'create_a_new_files_backup' => '파일 백업 생성',
